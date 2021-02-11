@@ -1,2 +1,2 @@
 print("first line")
-pritnln("second line")
+print("second line")
